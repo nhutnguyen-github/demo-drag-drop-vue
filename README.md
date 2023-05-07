@@ -1,5 +1,6 @@
 # demo-drag-drop
 This project use Vue, TypeScript, VueX.
+
 Run with command 'npm run dev'
 
 There are two pages:
